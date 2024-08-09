@@ -7290,6 +7290,30 @@ GenG4.menu.pnum.GENERIC_G431CBUX.build.product_line=STM32G431xx
 GenG4.menu.pnum.GENERIC_G431CBUX.build.variant=STM32G4xx/G431C(6-8-B)U_G441CBU
 GenG4.menu.pnum.GENERIC_G431CBUX.debug.svd_file={runtime.tools.STM32_SVD.path}/svd/STM32G4xx/STM32G431.svd
 
+# WeAct G431CB
+GenG4.menu.pnum.WEACT_G431CB=WeAct G431CB
+GenG4.menu.pnum.WEACT_G431CB.upload.maximum_size=131072
+GenG4.menu.pnum.WEACT_G431CB.upload.maximum_data_size=32768
+GenG4.menu.pnum.WEACT_G431CB.build.board=WEACT_G431CB
+GenG4.menu.pnum.WEACT_G431CB.build.series=STM32G4xx
+GenG4.menu.pnum.WEACT_G431CB.build.product_line=STM32G431xx
+GenG4.menu.pnum.WEACT_G431CB.build.variant=STM32G4xx/G431C(6-8-B)U_G441CBU
+GenG4.menu.pnum.WEACT_G431CB.build.variant_h=variant_WEACT_G431CB.h
+GenG4.menu.pnum.WEACT_G431CB.build.peripheral_pins=-DCUSTOM_PERIPHERAL_PINS
+GenG4.menu.pnum.WEACT_G431CB.debug.svd_file={runtime.tools.STM32_SVD.path}/svd/STM32G4xx/STM32G431.svd
+
+# WeAct G431CB long
+GenG4.menu.pnum.WEACT_G431CB_LONG=WeAct G431CB long
+GenG4.menu.pnum.WEACT_G431CB_LONG.upload.maximum_size=131072
+GenG4.menu.pnum.WEACT_G431CB_LONG.upload.maximum_data_size=32768
+GenG4.menu.pnum.WEACT_G431CB_LONG.build.board=WEACT_G431CB_LONG
+GenG4.menu.pnum.WEACT_G431CB_LONG.build.series=STM32G4xx
+GenG4.menu.pnum.WEACT_G431CB_LONG.build.product_line=STM32G431xx
+GenG4.menu.pnum.WEACT_G431CB_LONG.build.variant=STM32G4xx/G431C(6-8-B)U_G441CBU
+GenG4.menu.pnum.WEACT_G431CB_LONG.build.variant_h=variant_WEACT_G431CB_LONG.h
+GenG4.menu.pnum.WEACT_G431CB_LONG.build.peripheral_pins=-DCUSTOM_PERIPHERAL_PINS
+GenG4.menu.pnum.WEACT_G431CB_LONG.debug.svd_file={runtime.tools.STM32_SVD.path}/svd/STM32G4xx/STM32G431.svd
+
 # Generic G431K6Tx
 GenG4.menu.pnum.GENERIC_G431K6TX=Generic G431K6Tx
 GenG4.menu.pnum.GENERIC_G431K6TX.upload.maximum_size=32768
